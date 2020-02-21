@@ -1,5 +1,6 @@
 import random
-    
+
+print("Welcome to the Guessing Number Game!!!!!!")    
 random_num = random.randrange(0, 100)
 chance = 0
 while True:
